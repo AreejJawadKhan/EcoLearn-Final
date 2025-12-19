@@ -575,60 +575,18 @@ Once the backend is running, access Swagger documentation at:
 
 ---
 
-## UI Screenshots
-
-### Login Page
-Clean, centered login form with test credentials displayed.
-
-### Student Dashboard
-Three cards: Browse Courses, My Courses, My Progress
-
-### Course Browsing (Student)
-List of available courses with enroll buttons, teacher names displayed.
-
-### Course Lessons
-Structured lesson content display with lesson numbers.
-
-### Quiz Interface
-Multiple-choice questions with radio button options, attempts counter, submit button.
-
-### Progress Dashboard
-Certificate cards showing score, percentage, attempts, and certificate status.
-
-### Certificate Page
-Professional certificate design with student name, course title, score, and print button.
-
-### Teacher Dashboard
-Four cards: My Courses, Create Course, Add Lesson, Add Quiz
-
-### Teacher Course Management
-Course cards with status badges, view progress, enable/disable, delete options.
-
-### Student Progress Table (Teacher View)
-Comprehensive table showing all students: name, lessons status, quiz scores, attempts, certificates.
-
----
-
 ## Contributors
 
 This project was developed as part of a web development course project.
 
 **Group Members:**
-- Member 1: [Name] - Frontend & Backend Development
-- Member 2: [Name] - Frontend & Backend Development
-- Member 3: [Name] - Frontend & Backend Development
-
-*(Add actual names and specific contributions)*
+- Member 1: [Areej Jawad Khan] - Frontend & Backend Development
+- Member 2: [Faryal Shariq] - Frontend & Backend Development
 
 ---
 
 ## License
 This is an academic project for educational purposes.
-
----
-
-## Contact
-For questions or issues, please contact the project contributors.
 
 ---
 
